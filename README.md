@@ -13,7 +13,6 @@ This project demonstrates real-time messaging between a client and a server over
 - [How It Works](#how-it-works)
 - [Installation & Running](#installation--running)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
 
 ---
